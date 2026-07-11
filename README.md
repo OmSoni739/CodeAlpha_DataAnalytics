@@ -1,8 +1,7 @@
-# CodeAlpha Data Analytics Internship
+# Web Scraping :  Highest Grossing Movies Web Scraper
 
 ---
 
-## Task 1: Web Scraping :  Highest Grossing Movies Web Scraper
 ### Website: https://en.wikipedia.org/wiki/List_of_highest-grossing_films
 ### Project Overview
 
